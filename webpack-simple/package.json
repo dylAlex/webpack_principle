@@ -1,0 +1,23 @@
+{
+  "name": "test-webpack-last",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@babel/core": "^7.10.4",
+    "@babel/parser": "^7.10.4",
+    "@babel/traverse": "^7.10.4",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.10.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
